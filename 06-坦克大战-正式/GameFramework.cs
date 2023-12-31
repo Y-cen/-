@@ -13,6 +13,7 @@ namespace _06_坦克大战_正式
 
         public static void Start()
         {
+            // test
             GameObjectManager.Start();
             GameObjectManager.CreateMap();
             GameObjectManager.CreateMyTank();
